@@ -24,7 +24,7 @@
 * [显卡性能查询工具](https://www.mydrivers.com/zhuanti/tianti/gpu/index.html)
 * [Linux上好用的Markdown工具](https://typora.io/#linux)
 * [Ubuntu 桌面便签小工具](https://github.com/umangv/indicator-stickynotes)
-* [教你如果编写高大上的README](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [教你如何编写高大上的README](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 * [个人照片管理工具](https://github.com/photoprism/photoprism)
 * [HTTP/HTTPS交互工具, httpstat](https://github.com/davecheney/httpstat)
 * [HTTP/HTTPS压测工具, vegeta](https://github.com/tsenart/vegeta)
