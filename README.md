@@ -37,3 +37,8 @@
 * [将手写字体转换成精美的PDF](https://github.com/mzucker/noteshrink)
 * [局域网文件传输工具](https://github.com/claudiodangelis/qr-filetransfer)
 * [MySQL命令行自动补全/语法高亮工具](https://github.com/dbcli/mycli)
+* [Vim自动配置工具](https://github.com/chxuan/vimplus)
+* [开发多彩动感的终端GUI](https://mp.weixin.qq.com/s/DQzlfQXt4dV9PYwoVdomaw)
+* [智能命令行跳转工具](https://github.com/wting/autojump)
+* [手稿转PDF](https://mzucker.github.io/2016/09/20/noteshrink.html)
+* [高效绘制流程图, PlantUML](https://zhuanlan.zhihu.com/p/76948461)
