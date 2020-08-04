@@ -41,6 +41,7 @@
 * [Vim自动配置工具, vimplus](https://github.com/chxuan/vimplus)
 * [智能命令行跳转工具, autojump](https://github.com/wting/autojump)
 * [高效绘制流程图, PlantUML](https://zhuanlan.zhihu.com/p/76948461)
+* [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
 
 ## 网页端工具
 
