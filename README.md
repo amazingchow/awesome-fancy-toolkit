@@ -17,10 +17,12 @@
 * [Golang版本管理工具, g](https://github.com/voidint/g)
 * [Json转Golang结构体工具](http://json2struct.mervine.net/)
 * [开发多彩动感的终端GUI](https://mp.weixin.qq.com/s/DQzlfQXt4dV9PYwoVdomaw)
+* [Golang中国官方网站](https://golang.google.cn/)
 
 ## c++生态圈工具
 
 * [内存泄露检测工具, valgrind](http://valgrind.org/)
+* [tcmalloc by google](https://github.com/gperftools/gperftools)
 
 ## Linux端工具
 
@@ -42,6 +44,8 @@
 * [智能命令行跳转工具, autojump](https://github.com/wting/autojump)
 * [高效绘制流程图, PlantUML](https://zhuanlan.zhihu.com/p/76948461)
 * [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
+* [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
+* [Linux性能分析工具, perf](http://www.brendangregg.com/perf.html)
 
 ## 网页端工具
 
@@ -61,3 +65,5 @@
 * [显卡性能查询](https://www.mydrivers.com/zhuanti/tianti/gpu/index.html)
 * [教你如何编写高大上的README](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 * [局域网文件传输工具](https://github.com/claudiodangelis/qr-filetransfer)
+* [图片裁剪工具](https://www.iloveimg.com/crop-image)
+* [Nvidia镜像制作](https://gitlab.com/nvidia/container-images/cuda)
