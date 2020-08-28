@@ -23,6 +23,8 @@
 
 * [内存泄露检测工具, valgrind](http://valgrind.org/)
 * [gperftools by google](https://github.com/gperftools/gperftools)
+* [gperftools heapprofile by google](https://gperftools.github.io/gperftools/heapprofile.html)
+* [gperftools cpuprofile by google](https://gperftools.github.io/gperftools/cpuprofile.html)
 * [libunwind](http://download.savannah.gnu.org/releases/libunwind/)
 
 ## Linux端工具
