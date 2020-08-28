@@ -49,6 +49,7 @@
 * [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
 * [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
 * [Linux性能分析工具, perf](http://www.brendangregg.com/perf.html)
+* [LinuxI/O测试工具, fio](https://github.com/axboe/fio)
 
 ## 网页端工具
 
