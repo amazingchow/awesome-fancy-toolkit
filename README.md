@@ -49,6 +49,7 @@
 * [Kafka Tool](https://www.kafkatool.com/)
 * [Nginx辅助配置工具](https://github.com/digitalocean/nginxconfig.io)
 * [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
+* [Debugging with Grpc](https://github.com/bradleyjkemp/grpc-tools)
 
 ## Linux生态圈用户工具
 
