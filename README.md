@@ -48,7 +48,7 @@
 * [渗透测试工具](https://blackarch.org/sniffer.html)
 * [Kafka Tool](https://www.kafkatool.com/)
 * [Nginx辅助配置工具](https://github.com/digitalocean/nginxconfig.io)
-
+* [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
 
 ## Linux生态圈用户工具
 
