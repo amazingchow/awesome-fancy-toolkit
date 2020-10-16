@@ -90,3 +90,4 @@
 * [中国传统颜色手册](https://colors.ichuantong.cn/)
 * [中文NLP资源库](https://github.com/fighting41love/funNLP)
 * [草料二维码生成器](https://cli.im)
+* [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
