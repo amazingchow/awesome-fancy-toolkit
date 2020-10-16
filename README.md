@@ -92,3 +92,4 @@
 * [草料二维码生成器](https://cli.im)
 * [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
 * [Geohash Converter](http://geohash.co/)
+* [SQL保留的关键词查询](https://www.drupal.org/node/141051)
