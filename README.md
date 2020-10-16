@@ -88,3 +88,4 @@
 * [ROMs下载](https://www.downloadroms.io/roms/gameboy/)
 * [中国传统颜色手册](https://colors.ichuantong.cn/)
 * [中文NLP资源库](https://github.com/fighting41love/funNLP)
+* [草料二维码生成器](https://cli.im)
