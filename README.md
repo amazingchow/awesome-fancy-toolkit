@@ -50,6 +50,7 @@
 * [Nginx辅助配置工具](https://github.com/digitalocean/nginxconfig.io)
 * [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
 * [Debugging with Grpc](https://github.com/bradleyjkemp/grpc-tools)
+* [BD Browser for SQLite](https://sqlitebrowser.org/dl/)
 
 ## Linux生态圈用户工具
 
