@@ -42,6 +42,7 @@
 
 * [Linux进程监控工具, noti](https://github.com/variadico/noti)
 * [Linux性能分析工具, perf](http://www.brendangregg.com/perf.html)
+* [Linux非官方性能分析工具, perf-tools](https://github.com/brendangregg/perf-tools)
 * [LinuxI/O测试工具, fio](https://github.com/axboe/fio)
 * [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
 * [Docker可视化管理工具, scope](https://github.com/weaveworks/scope)
