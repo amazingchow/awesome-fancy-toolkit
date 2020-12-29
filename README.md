@@ -1,24 +1,26 @@
-# 开源小工具集合
+# photon-dance-dev-toolkit
 
-## HTTP/HTTPS工具
+---
 
-* [HTTP/HTTPS交互工具, httpstat](https://github.com/davecheney/httpstat)
+## HTTP/HTTPS开发测试工具
+
+* [HTTP/HTTPS请求描述工具, httpstat](https://github.com/davecheney/httpstat)
+* [HTTP/HTTPS请求监视工具, wuzz](https://github.com/asciimoo/wuzz)
 * [HTTP/HTTPS压测工具, vegeta](https://github.com/tsenart/vegeta)
 * [HTTP/HTTPS压测工具, hey](https://github.com/rakyll/hey)
 * [HTTP/HTTPS压测工具, wrk](https://github.com/wg/wrk)
-* [HTTP/HTTPS请求监视工具, wuzz](https://github.com/asciimoo/wuzz)
 
-## GitHub工具
+## GitHub生态圈工具
 
-* [Github代码搜索服务](https://github.com/search)
-* [GitHub文件加速下载服务](https://shrill-pond-3e81.hunsh.workers.dev/)
-* [GitHub项目代理下载服务](http://gitd.cc//)
+* [GitHub代码搜索服务](https://github.com/search)
+* [GitHub仓库加速下载服务](https://shrill-pond-3e81.hunsh.workers.dev/)
+* [GitHub仓库代理下载服务](http://gitd.cc//)
 
 ## Python生态圈工具
 
 * [pip + virtualenv合体工具, pipenv](https://github.com/pypa/pipenv)
 * [MySQL命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
-* [文件活动监控工具, pyinotify](https://github.com/seb-m/pyinotify)
+* [系统文件监控工具, pyinotify](https://github.com/seb-m/pyinotify)
 
 ## Golang生态圈工具
 
@@ -35,10 +37,11 @@
 * [内存泄露检测工具, valgrind](http://valgrind.org/)
 * [gperftools by google](https://github.com/gperftools/gperftools)
 * [gperftools heapprofile by google](https://gperftools.github.io/gperftools/heapprofile.html)
+* [gperftools heap-checker by google](https://gperftools.github.io/gperftools/heap_checker.html)
 * [gperftools cpuprofile by google](https://gperftools.github.io/gperftools/cpuprofile.html)
 * [libunwind](http://download.savannah.gnu.org/releases/libunwind/)
 
-## Linux生态圈码农工具
+## Linux生态圈开发测试工具
 
 * [Linux进程监控工具, noti](https://github.com/variadico/noti)
 * [Linux性能分析工具, perf](http://www.brendangregg.com/perf.html)
@@ -52,7 +55,7 @@
 * [Nginx辅助配置工具](https://github.com/digitalocean/nginxconfig.io)
 * [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
 * [Debugging with Grpc](https://github.com/bradleyjkemp/grpc-tools)
-* [BD Browser for SQLite](https://sqlitebrowser.org/dl/)
+* [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 
 ## Linux生态圈用户工具
 
@@ -69,6 +72,7 @@
 * [智能命令行跳转工具, autojump](https://github.com/wting/autojump)
 * [高效绘制流程图, PlantUML](https://zhuanlan.zhihu.com/p/76948461)
 * [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
+* [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
 
 ## 网页端工具
 
@@ -92,6 +96,6 @@
 * [中国传统颜色手册](https://colors.ichuantong.cn/)
 * [中文NLP资源库](https://github.com/fighting41love/funNLP)
 * [草料二维码生成器](https://cli.im)
-* [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
 * [Geohash Converter](http://geohash.co/)
 * [SQL保留的关键词查询](https://www.drupal.org/node/141051)
+* [肯搜编程词典](https://consoledict.com/)
