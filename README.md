@@ -40,6 +40,9 @@
 * [gperftools heap-checker by google](https://gperftools.github.io/gperftools/heap_checker.html)
 * [gperftools cpuprofile by google](https://gperftools.github.io/gperftools/cpuprofile.html)
 * [libunwind](http://download.savannah.gnu.org/releases/libunwind/)
+* [modern-cpp系列, modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+* [modern-cpp系列, modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
+* [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
 
 ## Linux生态圈开发测试工具
 
