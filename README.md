@@ -10,6 +10,11 @@
 * [HTTP/HTTPS压测工具, hey](https://github.com/rakyll/hey)
 * [HTTP/HTTPS压测工具, wrk](https://github.com/wg/wrk)
 
+## 网络开发工具
+
+* [Ping, but with a graph](https://github.com/orf/gping)
+* [Modern TCP tool, tcpprobe](https://github.com/mehrdadrad/tcpprobe)
+
 ## GitHub生态圈工具
 
 * [GitHub代码搜索服务](https://github.com/search)
@@ -77,6 +82,7 @@
 * [高效绘制流程图, PlantUML](https://zhuanlan.zhihu.com/p/76948461)
 * [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
 * [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
+* [Linux截图工具, flameshot](https://github.com/flameshot-org/flameshot)
 
 ## 网页端工具
 
