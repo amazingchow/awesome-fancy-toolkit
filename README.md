@@ -77,6 +77,7 @@
 * [高效绘制流程图, PlantUML](https://zhuanlan.zhihu.com/p/76948461)
 * [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
 * [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
+* [Linux截图工具, flameshot](https://github.com/flameshot-org/flameshot)
 
 ## 网页端工具
 
