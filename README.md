@@ -9,6 +9,7 @@
 * [HTTP/HTTPS压测工具, vegeta](https://github.com/tsenart/vegeta)
 * [HTTP/HTTPS压测工具, hey](https://github.com/rakyll/hey)
 * [HTTP/HTTPS压测工具, wrk](https://github.com/wg/wrk)
+* [Ping, but with a graph](https://github.com/orf/gping)
 
 ## GitHub生态圈工具
 
