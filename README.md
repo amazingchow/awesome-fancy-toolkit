@@ -43,6 +43,7 @@
 * [modern-cpp系列, modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 * [modern-cpp系列, modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
+* [modern-cpp系列, cmake-examples](https://github.com/ttroy50/cmake-examples)
 
 ## Linux生态圈开发测试工具
 
