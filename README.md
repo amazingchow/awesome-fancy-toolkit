@@ -65,6 +65,7 @@
 * [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
 * [Debugging with Grpc](https://github.com/bradleyjkemp/grpc-tools)
 * [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+* [多进程管理工具, goreman](https://github.com/mattn/goreman)
 
 ## Linux生态圈用户工具
 
