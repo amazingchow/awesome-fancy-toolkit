@@ -26,6 +26,7 @@
 * [pip + virtualenv合体工具, pipenv](https://github.com/pypa/pipenv)
 * [MySQL命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
 * [系统文件监控工具, pyinotify](https://github.com/seb-m/pyinotify)
+* [python程序内存profile工具, memory_profiler](https://github.com/pythonprofilers/memory_profiler)
 
 ## Golang生态圈工具
 
