@@ -31,6 +31,7 @@
 ## Golang生态圈工具
 
 * [Golang中国官方网站](https://golang.google.cn/)
+* [Golang源中国区代理](https://goproxy.io/)
 * [Golang版本管理工具, g](https://github.com/voidint/g)
 * [Golang程序调试工具, dlv](https://github.com/go-delve/delve)
 * [goroutine泄漏检测工具, goleak](https://github.com/uber-go/goleak)
