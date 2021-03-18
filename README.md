@@ -2,43 +2,48 @@
 
 ---
 
-## HTTP/HTTPS开发测试工具
+## HTTP/HTTPS Dev&Ops工具与服务
 
-* [HTTP/HTTPS请求描述工具, httpstat](https://github.com/davecheney/httpstat)
-* [HTTP/HTTPS请求监视工具, wuzz](https://github.com/asciimoo/wuzz)
+* [HTTP/HTTPS请求工具, 类似curl -v, httpstat](https://github.com/davecheney/httpstat)
+* [HTTP/HTTPS探测工具, wuzz](https://github.com/asciimoo/wuzz)
 * [HTTP/HTTPS压测工具, vegeta](https://github.com/tsenart/vegeta)
 * [HTTP/HTTPS压测工具, hey](https://github.com/rakyll/hey)
 * [HTTP/HTTPS压测工具, wrk](https://github.com/wg/wrk)
+* [HTTP/HTTPS测试框架, httprunner](https://github.com/httprunner/httprunner)
 
-## 网络开发工具
+## Network Dev&Ops工具与服务
 
-* [Ping, but with a graph](https://github.com/orf/gping)
-* [Modern TCP tool, tcpprobe](https://github.com/mehrdadrad/tcpprobe)
+* [ping with a graph, gping](https://github.com/orf/gping)
+* [网络性能观测工具与服务, tcpprobe](https://github.com/mehrdadrad/tcpprobe)
+* [tcp/udp/sockets等网络协议性能压测工具, netperf](https://github.com/HewlettPackard/netperf)
 
-## GitHub生态圈工具
+## GitHub生态圈工具与服务
 
 * [GitHub代码搜索服务](https://github.com/search)
 * [GitHub仓库加速下载服务](https://shrill-pond-3e81.hunsh.workers.dev/)
 * [GitHub仓库代理下载服务](http://gitd.cc//)
 
-## Python生态圈工具
+## Python生态圈Dev&Ops工具与服务
 
 * [pip + virtualenv合体工具, pipenv](https://github.com/pypa/pipenv)
-* [MySQL命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
+* [mysql命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
 * [系统文件监控工具, pyinotify](https://github.com/seb-m/pyinotify)
 * [python程序内存profile工具, memory_profiler](https://github.com/pythonprofilers/memory_profiler)
 
-## Golang生态圈工具
+## Golang生态圈Dev&Ops工具与服务
 
 * [Golang中国官方网站](https://golang.google.cn/)
+* [Golang源中国区代理](https://goproxy.io/)
 * [Golang版本管理工具, g](https://github.com/voidint/g)
 * [Golang程序调试工具, dlv](https://github.com/go-delve/delve)
 * [goroutine泄漏检测工具, goleak](https://github.com/uber-go/goleak)
-* [gctrace数据实时可视化工具, gcvis](https://github.com/davecheney/gcvis)
+* [gc trace数据实时可视化工具, gcvis](https://github.com/davecheney/gcvis)
 * [Json转Golang结构体](http://json2struct.mervine.net/)
 * [开发多彩动感的终端GUI](https://mojotv.cn/tutorial/golang-term-tty-pty-vt100)
+* [a deep pretty printer for Go data structures, go-spew](https://github.com/davecgh/go-spew)
+* [a time toolkit for golang, now](https://github.com/jinzhu/now)
 
-## C/C++生态圈工具
+## C/C++生态圈Dev&Ops工具与服务
 
 * [内存泄露检测工具, valgrind](http://valgrind.org/)
 * [gperftools by google](https://github.com/gperftools/gperftools)
@@ -50,8 +55,9 @@
 * [modern-cpp系列, modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
 * [modern-cpp系列, cmake-examples](https://github.com/ttroy50/cmake-examples)
+* [a c++ header-only HTTP/HTTPS server and client library](https://github.com/yhirose/cpp-httplib)
 
-## Linux生态圈开发测试工具
+## Linux生态圈Dev&Ops工具与服务
 
 * [Linux进程监控工具, noti](https://github.com/variadico/noti)
 * [Linux性能分析工具, perf](http://www.brendangregg.com/perf.html)
@@ -85,6 +91,7 @@
 * [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
 * [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
 * [Linux截图工具, flameshot](https://github.com/flameshot-org/flameshot)
+* [Keep your application settings in sync, Mackup](https://github.com/lra/mackup)
 
 ## 网页端工具
 
