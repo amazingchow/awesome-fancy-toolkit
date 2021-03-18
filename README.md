@@ -52,6 +52,7 @@
 * [modern-cpp系列, modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
 * [modern-cpp系列, cmake-examples](https://github.com/ttroy50/cmake-examples)
+* [a c++ header-only HTTP/HTTPS server and client library](https://github.com/yhirose/cpp-httplib)
 
 ## Linux生态圈开发测试工具
 
