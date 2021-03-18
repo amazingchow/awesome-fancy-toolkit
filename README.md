@@ -38,6 +38,7 @@
 * [gctrace数据实时可视化工具, gcvis](https://github.com/davecheney/gcvis)
 * [Json转Golang结构体](http://json2struct.mervine.net/)
 * [开发多彩动感的终端GUI](https://mojotv.cn/tutorial/golang-term-tty-pty-vt100)
+* [a deep pretty printer for Go data structures, go-spew](https://github.com/davecgh/go-spew)
 
 ## C/C++生态圈工具
 
