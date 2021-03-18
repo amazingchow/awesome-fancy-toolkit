@@ -41,6 +41,7 @@
 * [Json转Golang结构体](http://json2struct.mervine.net/)
 * [开发多彩动感的终端GUI](https://mojotv.cn/tutorial/golang-term-tty-pty-vt100)
 * [a deep pretty printer for Go data structures, go-spew](https://github.com/davecgh/go-spew)
+* [a time toolkit for golang, now](https://github.com/jinzhu/now)
 
 ## C/C++生态圈工具
 
