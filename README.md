@@ -89,6 +89,7 @@
 * [终端操作录制工具, ttyrec](https://github.com/mjording/ttyrec)
 * [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
 * [Linux截图工具, flameshot](https://github.com/flameshot-org/flameshot)
+* [Keep your application settings in sync, Mackup](https://github.com/lra/mackup)
 
 ## 网页端工具
 
