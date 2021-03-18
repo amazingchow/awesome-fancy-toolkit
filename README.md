@@ -9,6 +9,7 @@
 * [HTTP/HTTPS压测工具, vegeta](https://github.com/tsenart/vegeta)
 * [HTTP/HTTPS压测工具, hey](https://github.com/rakyll/hey)
 * [HTTP/HTTPS压测工具, wrk](https://github.com/wg/wrk)
+* [HTTP/HTTPS测试框架, httprunner](https://github.com/httprunner/httprunner)
 
 ## 网络开发工具
 
