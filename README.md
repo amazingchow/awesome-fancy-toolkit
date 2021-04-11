@@ -96,6 +96,7 @@
 ## 网页端工具
 
 * [IP地址查询](https://www.ipaddress.com/)
+* [IP地理位置查询](https://www.iplocation.net/ip-lookup)
 * [Crontab辅助编写](https://tool.lu/crontab)
 * [油管视频下载](https://en.savefrom.net/1-youtube-video-downloader-1/)
 * [谷歌提供的数据集搜索工具](https://datasetsearch.research.google.com/)
