@@ -91,6 +91,7 @@
 * [Linux截图工具, flameshot](https://github.com/flameshot-org/flameshot)
 * [Keep your application settings in sync, Mackup](https://github.com/lra/mackup)
 * [Linux好用的流程图制作工具, Mermaid](https://github.com/mermaid-js/mermaid)
+* [Linux好用的架构图制作工具, Diagrams](https://github.com/mingrammer/diagrams)
 
 ## 网页端工具
 
