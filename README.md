@@ -1,7 +1,5 @@
 # photon-dance-dev-toolkit
 
----
-
 ## HTTP/HTTPS Dev&Ops工具与服务
 
 * [HTTP/HTTPS请求工具, 类似curl -v, httpstat](https://github.com/davecheney/httpstat)
@@ -92,6 +90,7 @@
 * [Linux命令行搜索工具](https://wangchujiang.com/linux-command/)
 * [Linux截图工具, flameshot](https://github.com/flameshot-org/flameshot)
 * [Keep your application settings in sync, Mackup](https://github.com/lra/mackup)
+* [Linux好用的流程图制作工具, Mermaid](https://github.com/mermaid-js/mermaid)
 
 ## 网页端工具
 
