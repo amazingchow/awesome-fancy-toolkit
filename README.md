@@ -25,8 +25,15 @@
 
 * [pip + virtualenv合体工具, pipenv](https://github.com/pypa/pipenv)
 * [mysql命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
+* [redis命令行自动补全/语法高亮工具, iredis](https://github.com/laixintao/iredis)
 * [系统文件监控工具, pyinotify](https://github.com/seb-m/pyinotify)
 * [python程序内存profile工具, memory_profiler](https://github.com/pythonprofilers/memory_profiler)
+* [SQL for Humans™, records](https://github.com/kennethreitz/records)
+* [SQL Linter for Humans™, sqlfluff](https://github.com/sqlfluff/sqlfluff)
+* [matplotlib快查手册](https://github.com/matplotlib/cheatsheets)
+* [CPU + GPU + Memory profiler for python, scalene](https://github.com/plasma-umass/scalene)
+* [useragent生成器, fake-useragent](https://github.com/hellysmile/fake-useragent)
+* [python wrapper for tshark, pyshark](https://github.com/KimiNewt/pyshark)
 
 ## Golang生态圈Dev&Ops工具与服务
 
@@ -71,6 +78,14 @@
 * [Debugging with Grpc](https://github.com/bradleyjkemp/grpc-tools)
 * [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 * [多进程管理工具, goreman](https://github.com/mattn/goreman)
+* [real-time metrics for nginx server, ngxtop](https://github.com/lebinh/ngxtop)
+* [命令行压测工具, hyperfine](https://github.com/sharkdp/hyperfine)
+* [system monitoring dashboard for terminal, gtop](https://github.com/aksakalli/gtop)
+* [collaborative cheatsheets for console commands, tldr](https://github.com/tldr-pages/tldr)
+* [a better 'df' alternative, duf](https://github.com/muesli/duf)
+* [a better 'du' alternative, dust](https://github.com/bootandy/dust)
+* [a random collection of Linux utilities](https://github.com/karelzak/util-linux)
+* [http流量重放工具, goreplay](https://github.com/buger/goreplay)
 
 ## Linux生态圈用户工具
 
@@ -92,6 +107,9 @@
 * [Keep your application settings in sync, Mackup](https://github.com/lra/mackup)
 * [Linux好用的流程图制作工具, Mermaid](https://github.com/mermaid-js/mermaid)
 * [Linux好用的架构图制作工具, Diagrams](https://github.com/mingrammer/diagrams)
+* [logos representing development languages and tools](https://github.com/devicons/devicon)
+* [局域网文件传输工具, croc](https://github.com/schollz/croc)
+* [IoT入门教程](https://github.com/microsoft/IoT-For-Beginners)
 
 ## 网页端工具
 
