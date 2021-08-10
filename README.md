@@ -91,6 +91,7 @@
 * [a command-line fuzzy finder, fzf](https://github.com/junegunn/fzf)
 * [the unorthodox terminal file manager, n³](https://github.com/jarun/nnn)
 * [a new way to see and navigate directory trees, broot](https://github.com/Canop/broot)
+* [验证正则表达式](https://regex101.com/r/qqbZqh/2)
 
 ## Linux生态圈用户工具
 
