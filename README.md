@@ -88,6 +88,9 @@
 * [a better 'grep' alternative, ripgrep](https://github.com/BurntSushi/ripgrep)
 * [a random collection of Linux utilities](https://github.com/karelzak/util-linux)
 * [http流量重放工具, goreplay](https://github.com/buger/goreplay)
+* [a command-line fuzzy finder, fzf](https://github.com/junegunn/fzf)
+* [the unorthodox terminal file manager, n³](https://github.com/jarun/nnn)
+* [a new way to see and navigate directory trees, broot](https://github.com/Canop/broot)
 
 ## Linux生态圈用户工具
 
