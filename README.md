@@ -92,6 +92,10 @@
 * [the unorthodox terminal file manager, n³](https://github.com/jarun/nnn)
 * [a new way to see and navigate directory trees, broot](https://github.com/Canop/broot)
 * [验证正则表达式](https://regex101.com/r/qqbZqh/2)
+* [mobile shell, mosh](https://mosh.org/)
+* [a network filesystem client to connect to SSH servers, sshfs](https://github.com/libfuse/sshfs)
+* [the fast, feature-rich, GPU based terminal emulator, kitty](https://sw.kovidgoyal.net/kitty/)
+* [a tool that bootstraps your dotfiles, dotbot](https://github.com/anishathalye/dotbot)
 
 ## Linux生态圈用户工具
 
