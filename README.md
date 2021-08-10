@@ -84,6 +84,7 @@
 * [collaborative cheatsheets for console commands, tldr](https://github.com/tldr-pages/tldr)
 * [a better 'df' alternative, duf](https://github.com/muesli/duf)
 * [a better 'du' alternative, dust](https://github.com/bootandy/dust)
+* [a better 'find' alternative, fd](https://github.com/sharkdp/fd)
 * [a random collection of Linux utilities](https://github.com/karelzak/util-linux)
 * [http流量重放工具, goreplay](https://github.com/buger/goreplay)
 
