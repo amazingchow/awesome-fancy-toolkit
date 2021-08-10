@@ -34,6 +34,9 @@
 * [CPU + GPU + Memory profiler for python, scalene](https://github.com/plasma-umass/scalene)
 * [useragent生成器, fake-useragent](https://github.com/hellysmile/fake-useragent)
 * [python wrapper for tshark, pyshark](https://github.com/KimiNewt/pyshark)
+* [static typing for Python 3, mypy](https://github.com/python/mypy)
+* [line-by-line profiling for Python, line_profiler](https://github.com/pyutils/line_profiler)
+* [creates call graphs for Python programs, pycallgraph](https://github.com/gak/pycallgraph)
 
 ## Golang生态圈Dev&Ops工具与服务
 
@@ -96,6 +99,14 @@
 * [a network filesystem client to connect to SSH servers, sshfs](https://github.com/libfuse/sshfs)
 * [the fast, feature-rich, GPU based terminal emulator, kitty](https://sw.kovidgoyal.net/kitty/)
 * [a tool that bootstraps your dotfiles, dotbot](https://github.com/anishathalye/dotbot)
+* [log file navigator, lnav](https://github.com/tstack/lnav)
+* [a GDB plug-in that makes debugging with GDB suck less, pwndbg](https://github.com/pwndbg/pwndbg)
+* [finds bugs in your shell scripts, shellcheck](https://www.shellcheck.net/)
+* [a top/htop alternative for GNU/Linux, glances](https://github.com/nicolargo/glances)
+* [a top like UI used to show I/O, iotop](http://guichaz.free.fr/iotop/)
+* [Linux 'net top' tool, nethogs](https://github.com/raboof/nethogs)
+* [display bandwidth usage on an interface, iftop](http://www.ex-parrot.com/pdw/iftop)
+* [tool to impose load on and stress test systems, stress](https://linux.die.net/man/1/stress)
 
 ## Linux生态圈用户工具
 
