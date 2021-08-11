@@ -1,39 +1,46 @@
 # photon-dance-dev-toolkit
 
-## HTTP/HTTPS Dev&Ops工具与服务
+## Http/Https Dev&Ops工具与服务
 
-* [HTTP/HTTPS请求工具, 类似curl -v, httpstat](https://github.com/davecheney/httpstat)
-* [HTTP/HTTPS探测工具, wuzz](https://github.com/asciimoo/wuzz)
-* [HTTP/HTTPS压测工具, vegeta](https://github.com/tsenart/vegeta)
-* [HTTP/HTTPS压测工具, hey](https://github.com/rakyll/hey)
-* [HTTP/HTTPS压测工具, wrk](https://github.com/wg/wrk)
-* [HTTP/HTTPS测试框架, httprunner](https://github.com/httprunner/httprunner)
+* [Http/Https请求工具, 类似curl -v, httpstat](https://github.com/davecheney/httpstat)
+* [Http/Https探测工具, wuzz](https://github.com/asciimoo/wuzz)
+* [Http/Https压测工具, vegeta](https://github.com/tsenart/vegeta)
+* [Http/Https压测工具, hey](https://github.com/rakyll/hey)
+* [Http/Https压测工具, wrk](https://github.com/wg/wrk)
+* [Http/Https测试框架, httprunner](https://github.com/httprunner/httprunner)
+* [C++ Http/Https服务端/客户端开发库, cpp-httplib](https://github.com/yhirose/cpp-httplib)
+* [Http流量重放工具, goreplay](https://github.com/buger/goreplay)
 
 ## Network Dev&Ops工具与服务
 
-* [ping with a graph, gping](https://github.com/orf/gping)
-* [网络性能观测工具与服务, tcpprobe](https://github.com/mehrdadrad/tcpprobe)
-* [tcp/udp/sockets等网络协议性能压测工具, netperf](https://github.com/HewlettPackard/netperf)
+* [gRPC压测工具, ghz](https://github.com/bojand/ghz)
+* [带图形显示的ping, gping](https://github.com/orf/gping)
+* [网络性能观测工具, tcpprobe](https://github.com/mehrdadrad/tcpprobe)
+* [TCP/UDP/SOCKETS等网络协议性能压测工具, netperf](https://github.com/HewlettPackard/netperf)
+* [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
+* [Grpc调试工具, grpc-tools](https://github.com/bradleyjkemp/grpc-tools)
+* [Linux 'net top' tool, nethogs](https://github.com/raboof/nethogs)
+* [展示某个网卡接口上带宽使用情况的工具, iftop](http://www.ex-parrot.com/pdw/iftop)
 
 ## GitHub生态圈工具与服务
 
 * [GitHub代码搜索服务](https://github.com/search)
 * [GitHub仓库加速下载服务](https://shrill-pond-3e81.hunsh.workers.dev/)
 * [GitHub仓库代理下载服务](http://gitd.cc//)
+* [GitHub Actions工作流语法](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
 
 ## Python生态圈Dev&Ops工具与服务
 
 * [pip + virtualenv合体工具, pipenv](https://github.com/pypa/pipenv)
-* [mysql命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
-* [redis命令行自动补全/语法高亮工具, iredis](https://github.com/laixintao/iredis)
-* [系统文件监控工具, pyinotify](https://github.com/seb-m/pyinotify)
-* [python程序内存profile工具, memory_profiler](https://github.com/pythonprofilers/memory_profiler)
-* [SQL for Humans™, records](https://github.com/kennethreitz/records)
-* [SQL Linter for Humans™, sqlfluff](https://github.com/sqlfluff/sqlfluff)
-* [matplotlib快查手册](https://github.com/matplotlib/cheatsheets)
-* [CPU + GPU + Memory profiler for python, scalene](https://github.com/plasma-umass/scalene)
+* [系统文件监控库, pyinotify](https://github.com/seb-m/pyinotify)
+* [Python程序内存Profile工具, memory_profiler](https://github.com/pythonprofilers/memory_profiler)
+* [CPU + GPU + Memory Profiler for Python, scalene](https://github.com/plasma-umass/scalene)
+* [Line-by-Line Profiling for Python, line_profiler](https://github.com/pyutils/line_profiler)
+* [Create Call Graphs for Python Programs, pycallgraph](https://github.com/gak/pycallgraph)
+* [Matplotlib快查手册](https://github.com/matplotlib/cheatsheets)
 * [useragent生成器, fake-useragent](https://github.com/hellysmile/fake-useragent)
-* [python wrapper for tshark, pyshark](https://github.com/KimiNewt/pyshark)
+* [Python Wrapper for tshark, pyshark](https://github.com/KimiNewt/pyshark)
+* [Static Typing for Python 3, mypy](https://github.com/python/mypy)
 
 ## Golang生态圈Dev&Ops工具与服务
 
@@ -41,12 +48,12 @@
 * [Golang源中国区代理](https://goproxy.io/)
 * [Golang版本管理工具, g](https://github.com/voidint/g)
 * [Golang程序调试工具, dlv](https://github.com/go-delve/delve)
-* [goroutine泄漏检测工具, goleak](https://github.com/uber-go/goleak)
-* [gc trace数据实时可视化工具, gcvis](https://github.com/davecheney/gcvis)
+* [Goroutine泄漏检测工具, goleak](https://github.com/uber-go/goleak)
+* [GC Trace数据实时可视化工具, gcvis](https://github.com/davecheney/gcvis)
 * [Json转Golang结构体](http://json2struct.mervine.net/)
 * [开发多彩动感的终端GUI](https://mojotv.cn/tutorial/golang-term-tty-pty-vt100)
-* [a deep pretty printer for Go data structures, go-spew](https://github.com/davecgh/go-spew)
-* [a time toolkit for golang, now](https://github.com/jinzhu/now)
+* [A Deep Pretty Printer for Go Data Structures, go-spew](https://github.com/davecgh/go-spew)
+* [A Time Toolkit for Golang, now](https://github.com/jinzhu/now)
 
 ## C/C++生态圈Dev&Ops工具与服务
 
@@ -60,32 +67,47 @@
 * [modern-cpp系列, modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
 * [modern-cpp系列, cmake-examples](https://github.com/ttroy50/cmake-examples)
-* [a c++ header-only HTTP/HTTPS server and client library](https://github.com/yhirose/cpp-httplib)
 
 ## Linux生态圈Dev&Ops工具与服务
 
 * [Linux进程监控工具, noti](https://github.com/variadico/noti)
+* [LinuxI/O测试工具, fio](https://github.com/axboe/fio)
 * [Linux性能分析工具, perf](http://www.brendangregg.com/perf.html)
 * [Linux非官方性能分析工具, perf-tools](https://github.com/brendangregg/perf-tools)
-* [LinuxI/O测试工具, fio](https://github.com/axboe/fio)
-* [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
+* [MySQL命令行自动补全/语法高亮工具, mycli](https://github.com/dbcli/mycli)
+* [SQL for Humans™, records](https://github.com/kennethreitz/records)
+* [SQL Linter for Humans™, sqlfluff](https://github.com/sqlfluff/sqlfluff)
+* [Redis命令行自动补全/语法高亮工具, iredis](https://github.com/laixintao/iredis)
 * [Docker可视化管理工具, scope](https://github.com/weaveworks/scope)
 * [代码阅读工具, OpenGrok](https://github.com/oracle/opengrok/wiki/How-to-setup-OpenGrok)
 * [渗透测试工具](https://blackarch.org/sniffer.html)
 * [Kafka Tool](https://www.kafkatool.com/)
 * [Nginx辅助配置工具](https://github.com/digitalocean/nginxconfig.io)
 * [Debugging with VSCode](https://code.visualstudio.com/docs/editor/debugging)
-* [Debugging with Grpc](https://github.com/bradleyjkemp/grpc-tools)
 * [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 * [多进程管理工具, goreman](https://github.com/mattn/goreman)
-* [real-time metrics for nginx server, ngxtop](https://github.com/lebinh/ngxtop)
+* [RealTime Metrics for Nginx Server, ngxtop](https://github.com/lebinh/ngxtop)
 * [命令行压测工具, hyperfine](https://github.com/sharkdp/hyperfine)
 * [system monitoring dashboard for terminal, gtop](https://github.com/aksakalli/gtop)
 * [collaborative cheatsheets for console commands, tldr](https://github.com/tldr-pages/tldr)
 * [a better 'df' alternative, duf](https://github.com/muesli/duf)
 * [a better 'du' alternative, dust](https://github.com/bootandy/dust)
+* [a better 'find' alternative, fd](https://github.com/sharkdp/fd)
+* [a better 'grep' alternative, ripgrep](https://github.com/BurntSushi/ripgrep)
 * [a random collection of Linux utilities](https://github.com/karelzak/util-linux)
-* [http流量重放工具, goreplay](https://github.com/buger/goreplay)
+* [a command-line fuzzy finder, fzf](https://github.com/junegunn/fzf)
+* [the unorthodox terminal file manager, n³](https://github.com/jarun/nnn)
+* [a new way to see and navigate directory trees, broot](https://github.com/Canop/broot)
+* [mobile shell, mosh](https://mosh.org/)
+* [a network filesystem client to connect to SSH servers, sshfs](https://github.com/libfuse/sshfs)
+* [the fast, feature-rich, GPU based terminal emulator, kitty](https://sw.kovidgoyal.net/kitty/)
+* [a tool that bootstraps your dotfiles, dotbot](https://github.com/anishathalye/dotbot)
+* [log file navigator, lnav](https://github.com/tstack/lnav)
+* [a GDB plug-in that makes debugging with GDB suck less, pwndbg](https://github.com/pwndbg/pwndbg)
+* [finds bugs in your shell scripts, shellcheck](https://www.shellcheck.net/)
+* [a top/htop alternative for GNU/Linux, glances](https://github.com/nicolargo/glances)
+* [a top like UI used to show I/O, iotop](http://guichaz.free.fr/iotop/)
+* [tool to impose load on and stress test systems, stress](https://linux.die.net/man/1/stress)
 
 ## Linux生态圈用户工具
 
@@ -110,6 +132,7 @@
 * [logos representing development languages and tools](https://github.com/devicons/devicon)
 * [局域网文件传输工具, croc](https://github.com/schollz/croc)
 * [IoT入门教程](https://github.com/microsoft/IoT-For-Beginners)
+* [搭建私有VPN, algo](https://github.com/trailofbits/algo)
 
 ## 网页端工具
 
@@ -137,3 +160,4 @@
 * [Geohash Converter](http://geohash.co/)
 * [SQL保留的关键词查询](https://www.drupal.org/node/141051)
 * [肯搜编程词典](https://consoledict.com/)
+* [验证正则表达式](https://regex101.com/r/qqbZqh/2)
