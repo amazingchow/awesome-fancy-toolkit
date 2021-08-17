@@ -54,6 +54,7 @@
 * [开发多彩动感的终端GUI](https://mojotv.cn/tutorial/golang-term-tty-pty-vt100)
 * [A Deep Pretty Printer for Go Data Structures, go-spew](https://github.com/davecgh/go-spew)
 * [A Time Toolkit for Golang, now](https://github.com/jinzhu/now)
+* [Thoughts on Go Performance Optimization](https://github.com/dgryski/go-perfbook)
 
 ## C/C++生态圈Dev&Ops工具与服务
 
@@ -67,6 +68,7 @@
 * [modern-cpp系列, modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 * [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
 * [modern-cpp系列, cmake-examples](https://github.com/ttroy50/cmake-examples)
+* [C++算法与数据结构手册](https://github.com/gibsjose/cpp-cheat-sheet)
 
 ## Linux生态圈Dev&Ops工具与服务
 
@@ -108,6 +110,14 @@
 * [a top/htop alternative for GNU/Linux, glances](https://github.com/nicolargo/glances)
 * [a top like UI used to show I/O, iotop](http://guichaz.free.fr/iotop/)
 * [tool to impose load on and stress test systems, stress](https://linux.die.net/man/1/stress)
+* [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
+* [Open-Source Node System Framework](https://github.com/zenustech/zeno)
+* [Tools to Bootstrap CAs, Certificate Requests, and Signed Certificates](https://github.com/square/certstrap)
+* [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+* [Linux Server Administration](https://github.com/livialima/linuxupskillchallenge)
+* [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop)
+* [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
+* [MySQL Management Tools](https://github.com/pinterest/mysql_utils)
 
 ## Linux生态圈用户工具
 
@@ -133,6 +143,8 @@
 * [局域网文件传输工具, croc](https://github.com/schollz/croc)
 * [IoT入门教程](https://github.com/microsoft/IoT-For-Beginners)
 * [搭建私有VPN, algo](https://github.com/trailofbits/algo)
+* [Github加速神器](https://github.com/dotnetcore/FastGithub)
+* [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy)
 
 ## 网页端工具
 
@@ -161,3 +173,7 @@
 * [SQL保留的关键词查询](https://www.drupal.org/node/141051)
 * [肯搜编程词典](https://consoledict.com/)
 * [验证正则表达式](https://regex101.com/r/qqbZqh/2)
+* [Raspberry Pi](https://www.hackster.io/raspberry-pi/projects?page=6)
+* [If This Then That](https://ifttt.com/)
+* [Flow Browser](https://www.ekioh.com/flow-browser/)
+* [Image Color Picker](https://pinetools.com/image-color-picker)
