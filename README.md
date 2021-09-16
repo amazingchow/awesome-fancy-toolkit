@@ -21,6 +21,9 @@
 * [Grpc调试工具, grpc-tools](https://github.com/bradleyjkemp/grpc-tools)
 * [Linux 'net top' tool, nethogs](https://github.com/raboof/nethogs)
 * [展示某个网卡接口上带宽使用情况的工具, iftop](http://www.ex-parrot.com/pdw/iftop)
+* [awesome-xxx系列, awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc)
+* [Linux network throughput benchmark tool, ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux)
+* [A TCP, UDP, and SCTP network bandwidth measurement tool, iperf3](https://github.com/esnet/iperf)
 
 ## GitHub生态圈工具与服务
 
@@ -41,6 +44,7 @@
 * [useragent生成器, fake-useragent](https://github.com/hellysmile/fake-useragent)
 * [Python Wrapper for tshark, pyshark](https://github.com/KimiNewt/pyshark)
 * [Static Typing for Python 3, mypy](https://github.com/python/mypy)
+* [Converts pictures into ASCII art, python-ascii_magic](https://github.com/LeandroBarone/python-ascii_magic)
 
 ## Golang生态圈Dev&Ops工具与服务
 
@@ -55,6 +59,7 @@
 * [A Deep Pretty Printer for Go Data Structures, go-spew](https://github.com/davecgh/go-spew)
 * [A Time Toolkit for Golang, now](https://github.com/jinzhu/now)
 * [Thoughts on Go Performance Optimization](https://github.com/dgryski/go-perfbook)
+* [Go + HTTP/2 Testing Server](https://http2.golang.org/)
 
 ## C/C++生态圈Dev&Ops工具与服务
 
@@ -118,6 +123,9 @@
 * [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop)
 * [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
 * [MySQL Management Tools](https://github.com/pinterest/mysql_utils)
+* [a chaos engineering experiment toolkit, chaosblade](https://github.com/chaosblade-io/chaosblade)
+* [a resiliency tool that helps apps tolerate random instance failures, chaosmonkey](https://github.com/Netflix/chaosmonkey)
+* [Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
 
 ## Linux生态圈用户工具
 
@@ -177,3 +185,8 @@
 * [If This Then That](https://ifttt.com/)
 * [Flow Browser](https://www.ekioh.com/flow-browser/)
 * [Image Color Picker](https://pinetools.com/image-color-picker)
+* [UNP在线阅读笔记](https://notes.shichao.io/unp/)
+* [《High Performance Browser Networking》在线阅读书记](https://hpbn.co/)
+* [Linux内核源码在线阅读](https://elixir.bootlin.com/linux/v5.2-rc7/source)
+* [MIT Software Construction Course](http://web.mit.edu/6.005/www/fa15/)
+* [Linux kernel Resources](https://makelinux.github.io/kernel/)
