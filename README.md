@@ -59,6 +59,7 @@
 * [A Deep Pretty Printer for Go Data Structures, go-spew](https://github.com/davecgh/go-spew)
 * [A Time Toolkit for Golang, now](https://github.com/jinzhu/now)
 * [Thoughts on Go Performance Optimization](https://github.com/dgryski/go-perfbook)
+* [Go + HTTP/2 Testing Server](https://http2.golang.org/)
 
 ## C/C++生态圈Dev&Ops工具与服务
 
