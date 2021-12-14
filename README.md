@@ -74,6 +74,11 @@
 * [modern-cpp系列, modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
 * [modern-cpp系列, cmake-examples](https://github.com/ttroy50/cmake-examples)
 * [C++算法与数据结构手册](https://github.com/gibsjose/cpp-cheat-sheet)
+* [Rust 培养提高计划](https://github.com/wubx/rust-in-databend)
+* [A collection of resources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+* [A curated list of awesome C++ (or C) resources](https://github.com/fffaraz/awesome-cpp)
+* [Asynchronous Programming with Seastar](http://docs.seastar.io/master/tutorial.html)
+* [Learn to write an embedded OS in Rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 
 ## Linux生态圈Dev&Ops工具与服务
 
@@ -126,6 +131,10 @@
 * [a chaos engineering experiment toolkit, chaosblade](https://github.com/chaosblade-io/chaosblade)
 * [a resiliency tool that helps apps tolerate random instance failures, chaosmonkey](https://github.com/Netflix/chaosmonkey)
 * [Tools for BPF-based Linux IO analysis, networking, monitoring, and more](https://github.com/iovisor/bcc)
+* [Performance Ninja Class](https://github.com/dendibakh/perf-ninja)
+* [Performance Analysis and Tuning on Modern CPU](https://github.com/dendibakh/perf-book)
+* [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+* [Toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 
 ## Linux生态圈用户工具
 
@@ -190,3 +199,6 @@
 * [Linux内核源码在线阅读](https://elixir.bootlin.com/linux/v5.2-rc7/source)
 * [MIT Software Construction Course](http://web.mit.edu/6.005/www/fa15/)
 * [Linux kernel Resources](https://makelinux.github.io/kernel/)
+* [HyperLogLog原理演示工具](http://content.research.neustar.biz/blog/hll.html)
+* [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [Free Online File Converter](https://www.online-convert.com/)
