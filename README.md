@@ -1,29 +1,45 @@
 # photon-dance-dev-toolkit
 
-## Http/Https Dev&Ops工具与服务
+## Http/Https/Grpc Dev&Ops工具与服务
 
 * [Http/Https请求工具, 类似curl -v, httpstat](https://github.com/davecheney/httpstat)
 * [Http/Https探测工具, wuzz](https://github.com/asciimoo/wuzz)
 * [Http/Https压测工具, vegeta](https://github.com/tsenart/vegeta)
 * [Http/Https压测工具, hey](https://github.com/rakyll/hey)
 * [Http/Https压测工具, wrk](https://github.com/wg/wrk)
+* [Http/Https压测工具, ddosify](https://github.com/ddosify/ddosify)
 * [Http/Https测试框架, httprunner](https://github.com/httprunner/httprunner)
-* [C++ Http/Https服务端/客户端开发库, cpp-httplib](https://github.com/yhirose/cpp-httplib)
-* [Http流量重放工具, goreplay](https://github.com/buger/goreplay)
+* [Http/Https流量重放工具, goreplay](https://github.com/buger/goreplay)
+* [API 文档、API 调试、API Mock、API 自动化测试, Apifox](https://www.apifox.cn/)
+* [gRPC压测工具, ghz](https://ghz.sh/)
+* [图形化的gRPC接口测试工具, ghz](https://github.com/bloomrpc/bloomrpc)
+* [Grpc调试工具, grpc-tools](https://github.com/bradleyjkemp/grpc-tools)
+
+## Kubernetes生态工具与服务
+
+* [开源的Operator仓库, OperatorHub.io](https://operatorhub.io/)
+* [Grpc Load Balancer with Kubernetes Resolver, kuberesolver](https://github.com/sercand/kuberesolver)
+
+## 软件工程
+
+* [产品版本规范, Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
+* [如何维护更新日志](https://keepachangelog.com/zh-CN/0.3.0/)
+* [Generation of diagram and flowchart from text in a similar manner as markdown, mermaid](https://github.com/mermaid-js/mermaid)
+* [Choose an open source license](https://choosealicense.com/)
+* [在线测试网页加载性能](https://pagespeed.web.dev/)
 
 ## Network Dev&Ops工具与服务
 
-* [gRPC压测工具, ghz](https://github.com/bojand/ghz)
 * [带图形显示的ping, gping](https://github.com/orf/gping)
 * [网络性能观测工具, tcpprobe](https://github.com/mehrdadrad/tcpprobe)
 * [TCP/UDP/SOCKETS等网络协议性能压测工具, netperf](https://github.com/HewlettPackard/netperf)
 * [模拟非理想网络环境, tc](https://wiki.linuxfoundation.org/networking/netem)
-* [Grpc调试工具, grpc-tools](https://github.com/bradleyjkemp/grpc-tools)
 * [Linux 'net top' tool, nethogs](https://github.com/raboof/nethogs)
 * [展示某个网卡接口上带宽使用情况的工具, iftop](http://www.ex-parrot.com/pdw/iftop)
-* [awesome-xxx系列, awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc)
 * [Linux network throughput benchmark tool, ntttcp-for-linux](https://github.com/microsoft/ntttcp-for-linux)
 * [A TCP, UDP, and SCTP network bandwidth measurement tool, iperf3](https://github.com/esnet/iperf)
+* [微软出品的网络性能测试工具, ethr](https://github.com/microsoft/ethr)
+* [流量代理, anyproxy](http://anyproxy.io/)
 
 ## GitHub生态圈工具与服务
 
@@ -63,6 +79,7 @@
 
 ## C/C++生态圈Dev&Ops工具与服务
 
+* [C++ Http/Https服务端/客户端开发库, cpp-httplib](https://github.com/yhirose/cpp-httplib)
 * [内存泄露检测工具, valgrind](http://valgrind.org/)
 * [gperftools by google](https://github.com/gperftools/gperftools)
 * [gperftools heapprofile by google](https://gperftools.github.io/gperftools/heapprofile.html)
