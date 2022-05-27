@@ -1,5 +1,3 @@
-# photon-dance-dev-toolkit
-
 ## Http/Https/Grpc Dev&Ops工具与服务
 
 * [Http/Https请求工具, 类似curl -v, httpstat](https://github.com/davecheney/httpstat)
@@ -11,8 +9,8 @@
 * [Http/Https测试框架, httprunner](https://github.com/httprunner/httprunner)
 * [Http/Https流量重放工具, goreplay](https://github.com/buger/goreplay)
 * [API 文档、API 调试、API Mock、API 自动化测试, Apifox](https://www.apifox.cn/)
-* [gRPC压测工具, ghz](https://ghz.sh/)
-* [图形化的gRPC接口测试工具, ghz](https://github.com/bloomrpc/bloomrpc)
+* [Grpc压测工具, ghz](https://ghz.sh/)
+* [图形化的Grpc接口测试工具, bloomrpc](https://github.com/bloomrpc/bloomrpc)
 * [Grpc调试工具, grpc-tools](https://github.com/bradleyjkemp/grpc-tools)
 
 ## Kubernetes生态工具与服务
@@ -22,9 +20,8 @@
 
 ## 软件工程
 
-* [产品版本规范, Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)
-* [如何维护更新日志](https://keepachangelog.com/zh-CN/0.3.0/)
-* [Generation of diagram and flowchart from text in a similar manner as markdown, mermaid](https://github.com/mermaid-js/mermaid)
+* [产品版本维护规范](https://semver.org/spec/v2.0.0.html)
+* [更新日志维护规范](https://keepachangelog.com/zh-CN/0.3.0/)
 * [Choose an open source license](https://choosealicense.com/)
 * [在线测试网页加载性能](https://pagespeed.web.dev/)
 
@@ -46,6 +43,7 @@
 * [GitHub代码搜索服务](https://github.com/search)
 * [GitHub仓库加速下载服务](https://shrill-pond-3e81.hunsh.workers.dev/)
 * [GitHub仓库代理下载服务](http://gitd.cc//)
+* [Github加速神器](https://github.com/dotnetcore/FastGithub)
 * [GitHub Actions工作流语法](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)
 
 ## Python生态圈Dev&Ops工具与服务
@@ -59,7 +57,6 @@
 * [Matplotlib快查手册](https://github.com/matplotlib/cheatsheets)
 * [useragent生成器, fake-useragent](https://github.com/hellysmile/fake-useragent)
 * [Python Wrapper for tshark, pyshark](https://github.com/KimiNewt/pyshark)
-* [Static Typing for Python 3, mypy](https://github.com/python/mypy)
 * [Converts pictures into ASCII art, python-ascii_magic](https://github.com/LeandroBarone/python-ascii_magic)
 
 ## Golang生态圈Dev&Ops工具与服务
@@ -71,9 +68,7 @@
 * [Goroutine泄漏检测工具, goleak](https://github.com/uber-go/goleak)
 * [GC Trace数据实时可视化工具, gcvis](https://github.com/davecheney/gcvis)
 * [Json转Golang结构体](http://json2struct.mervine.net/)
-* [开发多彩动感的终端GUI](https://mojotv.cn/tutorial/golang-term-tty-pty-vt100)
 * [A Deep Pretty Printer for Go Data Structures, go-spew](https://github.com/davecgh/go-spew)
-* [A Time Toolkit for Golang, now](https://github.com/jinzhu/now)
 * [Thoughts on Go Performance Optimization](https://github.com/dgryski/go-perfbook)
 * [Go + HTTP/2 Testing Server](https://http2.golang.org/)
 
@@ -177,7 +172,6 @@
 * [局域网文件传输工具, croc](https://github.com/schollz/croc)
 * [IoT入门教程](https://github.com/microsoft/IoT-For-Beginners)
 * [搭建私有VPN, algo](https://github.com/trailofbits/algo)
-* [Github加速神器](https://github.com/dotnetcore/FastGithub)
 * [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy)
 
 ## 网页端工具
@@ -216,6 +210,5 @@
 * [Linux内核源码在线阅读](https://elixir.bootlin.com/linux/v5.2-rc7/source)
 * [MIT Software Construction Course](http://web.mit.edu/6.005/www/fa15/)
 * [Linux kernel Resources](https://makelinux.github.io/kernel/)
-* [HyperLogLog原理演示工具](http://content.research.neustar.biz/blog/hll.html)
 * [Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Free Online File Converter](https://www.online-convert.com/)
