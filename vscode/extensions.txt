@@ -1,0 +1,40 @@
+## C/C++
+* C/C++ from Microsoft
+* C/C++ Extension Pack from Microsoft
+* C/C++ Themes from Microsoft
+* Better C++ Syntax from Microsoft
+* CMake from twxs
+* CMake Tools from Microsoft
+
+## Python
+* Python from Microsoft
+
+## Golang
+* Go from Go Team at Google
+* Optimizer Studio from Concertio
+
+## Solidity 
+* solidity from Juan Blanco
+
+## Protobuf
+* vscode-proto3 from zxh404
+
+## Vet + JS/H5/CSS
+* Vetur from Pine Wu
+* HTML CSS Support
+
+## Docekr + Kubernetes
+* Docker from Microsoft
+* Docker Compose from p1c2u
+
+## Collaboration
+* GitLens — Git supercharged from GitKraken
+* Git History from Don Jayamanne
+* Git Graph from mhutchie
+* Remote - SSH from Microsoft
+
+## Others
+* Todo Tree from Gruntfuggly
+* Prettify JSON from Mohsen Azimi
+* Markdown PDF from yzane
+* LeetCode from 力扣 LeetCode

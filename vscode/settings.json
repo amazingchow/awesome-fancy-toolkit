@@ -1,0 +1,9 @@
+{
+    "editor.semanticHighlighting.enabled": true,
+    "editor.suggestSelection": "first",
+    "go.testFlags": [
+        "-v",
+        "-count=1"
+    ],
+    "go.toolsManagement.autoUpdate": true
+}
