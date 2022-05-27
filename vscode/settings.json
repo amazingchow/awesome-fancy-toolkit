@@ -1,9 +1,14 @@
 {
+    "editor.fontSize": 14,
     "editor.semanticHighlighting.enabled": true,
     "editor.suggestSelection": "first",
+    "go.autocompleteUnimportedPackages": true,
+    "go.formatTool": "goimports",
     "go.testFlags": [
         "-v",
         "-count=1"
     ],
-    "go.toolsManagement.autoUpdate": true
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline"
 }

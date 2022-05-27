@@ -1,4 +1,4 @@
-## C/C++
+## C && C++
 * C/C++ from Microsoft
 * C/C++ Extension Pack from Microsoft
 * C/C++ Themes from Microsoft
@@ -19,13 +19,20 @@
 ## Protobuf
 * vscode-proto3 from zxh404
 
-## Vet + JS/H5/CSS
-* Vetur from Pine Wu
-* HTML CSS Support
+## Json && Yaml && Markdown
+* Prettify JSON from Mohsen Azimi
+* YAML from Red Hat
+* Markdown Preview Enhanced from Yiyi Wang
+* Markdown PDF from yzane
 
-## Docekr + Kubernetes
+## JS/H5/CSS3
+* Vetur from Pine Wu
+* HTML CSS Support from ecmel
+
+## Docker + Kubernetes
 * Docker from Microsoft
 * Docker Compose from p1c2u
+* Kubernetes from Microsoft
 
 ## Collaboration
 * GitLens — Git supercharged from GitKraken
@@ -34,7 +41,13 @@
 * Remote - SSH from Microsoft
 
 ## Others
+* nginx.conf from shanoor
+* Apache Conf from mrmlnc
+* Rainbow CSV from mechatroner
+* PlantUML from jebbs
 * Todo Tree from Gruntfuggly
-* Prettify JSON from Mohsen Azimi
-* Markdown PDF from yzane
+* indent-rainbow from oderwat
+* Better Comments from Aaron Bond
+* Bracket Pair Colorizer from CoenraadS
+* Partial Diff from Ryuichi Inagaki
 * LeetCode from 力扣 LeetCode
